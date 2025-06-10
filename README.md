@@ -75,9 +75,5 @@ Energia atual: 8
 
 ## 👨‍🏫 Autor
 
-Atividade desenvolvida por \[Seu Nome Aqui] como parte das aulas de Java no SENAI.
+Atividade desenvolvida por \Lucas dos Santos Lima como parte das aulas de Java no SENAI.
 
-```
-
-Se quiser, posso substituir o `[Seu Nome Aqui]` pelo seu nome real ou apelido que deseja usar no projeto. Deseja isso?
-```
