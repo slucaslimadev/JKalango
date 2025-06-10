@@ -1,6 +1,3 @@
-Claro! Aqui está o conteúdo do `README.md` em **formato Markdown**, pronto para ser copiado e colado:
-
-````markdown
 # 🐜 Projeto Personagens - SENAI
 
 Este projeto foi desenvolvido como parte de uma atividade prática do curso do SENAI, com o objetivo de exercitar conceitos de **Programação Orientada a Objetos (POO)** em Java, como **herança**, **polimorfismo**, **classes abstratas** e **métodos sobrescritos**.
